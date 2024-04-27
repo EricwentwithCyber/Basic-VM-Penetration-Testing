@@ -61,5 +61,11 @@ Captured the Flag. This VM was my final project for school. After caputring the 
 ![Architecture Diagram](https://imgur.com/MWGyiF1.jpg)
 
 ## Appendix
-[Any additional scripts or files used during the testing.
-](https://www.vulnhub.com/entry/basic-pentesting-1,216/)
+Source: 
+https://www.vulnhub.com/entry/basic-pentesting-1,216/
+
+## Author
+Eric Noga 4/27/2024
+
+## Connect with me
+https://www.linkedin.com/in/ericnoga/
