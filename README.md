@@ -47,8 +47,10 @@ This project documents a penetration test performed on a basic virtual machine a
 ### Post-Exploitation
 - Activities performed after gaining access, like directory exploration and capturing flags.
 ![Architecture Diagram](https://imgur.com/Veb6SDj.jpg)
-![Architecture Diagram](https://imgur.com/GxsbQUN.jpg)
 ![Architecture Diagram](https://imgur.com/bnOWOzg.jpg)
+
+![Architecture Diagram](https://imgur.com/GxsbQUN.jpg)
+
 ![Architecture Diagram](https://imgur.com/imKXKJM.jpg)
 ![Architecture Diagram](https://imgur.com/Veb6SDj.jpg)
 ![Architecture Diagram](https://imgur.com/olgjwuE.jpg)
