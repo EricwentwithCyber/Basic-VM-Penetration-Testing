@@ -25,6 +25,7 @@ This project documents a penetration test performed on a basic virtual machine a
 
 ### Directory Enumeration
 - **Gobuster**: Command `sudo gobuster dir -u http://192.168.56.101/ -w /usr/share/wordlists/dirb/common.txt -x .txt,.php,.html` to find directories.
+  
 ![Architecture Diagram](https://imgur.com/GzCrTQ8.jpg)
 ![Architecture Diagram](https://imgur.com/IVCnEGd.jpg)
 
