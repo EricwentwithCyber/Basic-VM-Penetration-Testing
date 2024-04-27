@@ -41,8 +41,7 @@ This project documents a penetration test performed on a basic virtual machine a
 
 ### Privilege Escalation
 - Explained methods used to escalate privileges, such as logging in with different user credentials and exploiting sudo vulnerabilities.
-![Architecture Diagram](https://imgur.com/QcY4HcH.jpg)
-![Architecture Diagram](https://imgur.com/LtEqNeT.jpg)
+
 
 ### Post-Exploitation
 - Activities performed after gaining access, like directory exploration and capturing flags.
