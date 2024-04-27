@@ -47,23 +47,16 @@ This project documents a penetration test performed on a basic virtual machine a
 ### Post-Exploitation
 - Activities performed after gaining access, like directory exploration and capturing flags.
 ![Architecture Diagram](https://imgur.com/Veb6SDj.jpg)
-
 ![Architecture Diagram](https://imgur.com/GxsbQUN.jpg)
-
-## Conclusion
-Summary of the security vulnerabilities discovered and recommendations for securing the VM.
-
-
+![Architecture Diagram](https://imgur.com/bnOWOzg.jpg)
 ![Architecture Diagram](https://imgur.com/imKXKJM.jpg)
 ![Architecture Diagram](https://imgur.com/Veb6SDj.jpg)
 ![Architecture Diagram](https://imgur.com/olgjwuE.jpg)
 ![Architecture Diagram](https://imgur.com/GlvezXb.jpg)
 
-
-![Architecture Diagram](https://imgur.com/bnOWOzg.jpg)
+## Conclusion
+Captured the Flag. This VM was my final project for school. After caputring the flag, I ended up with an A+ for the course.
 ![Architecture Diagram](https://imgur.com/MWGyiF1.jpg)
-## Screenshots
-Include screenshots here to illustrate key findings and steps.
 
 ## Appendix
 [Any additional scripts or files used during the testing.
