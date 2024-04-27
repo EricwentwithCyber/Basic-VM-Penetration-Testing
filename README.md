@@ -41,23 +41,27 @@ This project documents a penetration test performed on a basic virtual machine a
 
 ### Privilege Escalation
 - Explained methods used to escalate privileges, such as logging in with different user credentials and exploiting sudo vulnerabilities.
-
+![Architecture Diagram](https://imgur.com/wfJaRDi.jpg)
+![Architecture Diagram](https://imgur.com/SanTJk4.jpg)
 
 ### Post-Exploitation
 - Activities performed after gaining access, like directory exploration and capturing flags.
-![Architecture Diagram](https://imgur.com/wfJaRDi.jpg)
-![Architecture Diagram](https://imgur.com/bnOWOzg.jpg)
+![Architecture Diagram](https://imgur.com/Veb6SDj.jpg)
+
 ![Architecture Diagram](https://imgur.com/GxsbQUN.jpg)
 
 ## Conclusion
 Summary of the security vulnerabilities discovered and recommendations for securing the VM.
-![Architecture Diagram](https://imgur.com/MWGyiF1.jpg)
-![Architecture Diagram](https://imgur.com/SanTJk4.jpg)
+
+
 ![Architecture Diagram](https://imgur.com/imKXKJM.jpg)
 ![Architecture Diagram](https://imgur.com/Veb6SDj.jpg)
 ![Architecture Diagram](https://imgur.com/olgjwuE.jpg)
 ![Architecture Diagram](https://imgur.com/GlvezXb.jpg)
 
+
+![Architecture Diagram](https://imgur.com/bnOWOzg.jpg)
+![Architecture Diagram](https://imgur.com/MWGyiF1.jpg)
 ## Screenshots
 Include screenshots here to illustrate key findings and steps.
 
