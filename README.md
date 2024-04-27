@@ -1,5 +1,6 @@
 # Basic-VM-Penetration-Testing
-This project documents a penetration test performed on a basic virtual machine as part of a penetration testing course. The aim was to identify and exploit vulnerabilities to understand the security posture of the VM.
+This GitHub repository showcases a comprehensive penetration test conducted on a basic virtual machine as part of a formal penetration testing course. With authorized access, this project explores various methods to breach security defenses, simulating a hacker's approach to uncover and exploit vulnerabilities. The primary goal is to assess the VM's security posture, documenting each step of the process to provide insights into potential security enhancements. The repository includes detailed documentation, scripts used, and visual evidence from the testing phases.
+
 # Basic VM Penetration Testing
 
 ## Tools Used
